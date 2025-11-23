@@ -11,4 +11,6 @@ import java.io.File;
 
 public class Menu {
     // Menu class implementation
+    private void showSpalshScreen(){}
 }
+
